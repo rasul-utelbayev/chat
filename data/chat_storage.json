@@ -1,0 +1,69 @@
+{
+  "users": {
+    "rasulutelbayev@gmail.com": {
+      "id": "usr_d3ijclv",
+      "email": "rasulutelbayev@gmail.com",
+      "username": "rasulbek",
+      "avatar": "😎",
+      "color": "#6366f1",
+      "token": "tok_3ijzrbwss0vmu6ilrrf",
+      "joinedAt": 1789709126091
+    }
+  },
+  "messages": [
+    {
+      "id": "seed-sys-1",
+      "userId": "system",
+      "username": "Tizim",
+      "userAvatar": "🤖",
+      "userColor": "#6366f1",
+      "text": "🎉 Global Chat Guruhiga xush kelibsiz! Bu yerda barcha ishtirokchilar bitta umumiy guruhda jonli muloqot qilishadi.",
+      "timestamp": 1789701920316,
+      "type": "system"
+    },
+    {
+      "id": "seed-msg-1",
+      "userId": "user-admin",
+      "username": "Admin",
+      "userAvatar": "⚡",
+      "userColor": "#10b981",
+      "text": "Assalomu alaykum do'stlar! Yangi chat tizimi ishga tushdi. Rasm, ovozli xabarlar va emojilar yuborish mumkin.",
+      "timestamp": 1789703720316,
+      "type": "user",
+      "reactions": {
+        "🔥": [
+          "Admin",
+          "Diyorbek"
+        ],
+        "👍": [
+          "Aziza"
+        ]
+      }
+    },
+    {
+      "id": "seed-msg-2",
+      "userId": "user-aziza",
+      "username": "Aziza",
+      "userAvatar": "🌸",
+      "userColor": "#ec4899",
+      "text": "Ajoyib! Ovozli xabarlar va reaktsiyalar ham juda qulay ekan! Hammaga salom 👋",
+      "timestamp": 1789704800316,
+      "type": "user",
+      "reactions": {
+        "❤️": [
+          "Admin"
+        ]
+      }
+    },
+    {
+      "id": "sys_1789709126091",
+      "userId": "system",
+      "username": "Tizim",
+      "userAvatar": "🌟",
+      "userColor": "#8b5cf6",
+      "text": "✨ rasulbek guruhga qo'shildi! Xush kelibsiz!",
+      "timestamp": 1789709126091,
+      "type": "system"
+    }
+  ]
+}

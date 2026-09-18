@@ -1,0 +1,10 @@
+{
+  "name": "Global Chat Guruhi",
+  "description": "Email tasdiqlash kodi bilan kiriladigan yagona umumiy guruhli real-vaqtli jonli chat platformasi.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
